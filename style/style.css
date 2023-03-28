@@ -91,7 +91,7 @@ main h2{
     font-family: var(--fonte-android);
     color:var(--cor4);
     font-size: 1.8em;
-    background-image: linear-gradient(to right, var(--cor2), transparent);
+    background-image: linear-gradient(to left,var(--cor2), transparent);
     text-indent: 10px;
     font-weight: normal;
 }
